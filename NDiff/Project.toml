@@ -1,0 +1,6 @@
+authors = ["vincent moens <vincentmoens@gmail.com>"]
+name = "NDiff"
+uuid = "aca99dde-017d-11e9-2a35-cd8c8f65a50a"
+version = "0.1.0"
+
+[deps]
